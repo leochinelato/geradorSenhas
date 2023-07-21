@@ -10,7 +10,6 @@ body {
     flex-direction: column;
     min-height: 90vh;
     color: #000000;
-    zoom: 1.5;
 }
 
 button {
