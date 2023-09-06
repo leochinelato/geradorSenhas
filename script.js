@@ -1,7 +1,7 @@
 function gerSenha() {
-    const maiusculas = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-    const minusculas = 'abcdefghijklmnopqrstuvwxyz';
-    const especiais = '!@#$%^&*()';
+    const maiusculas = 'ABCDEFGHJKLMNOPQRSTUVWXYZ';
+    const minusculas = 'abcdefghijkmnopqrstuvwxyz';
+    const especiais = '@$#';
     const numeros = '0123456789';
 
     let password = '';
