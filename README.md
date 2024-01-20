@@ -10,4 +10,4 @@
 <p> - CSS </p>
 <p> - JavaScript </p>
 
-<img>https://github.com/leochinelato/leochinelato.github.io/assets/66490205/de10053e-1e42-4790-b299-096a722fea61</img>
+<img src="https://github.com/leochinelato/leochinelato.github.io/assets/66490205/de10053e-1e42-4790-b299-096a722fea61" alt="imagem do gerador">
